@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build debug APK",
+      "type": "shell",
+      "command": "./gradlew assembleDebug",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "Unit tests",
+      "type": "shell",
+      "command": "./gradlew :core:test",
+      "group": "test",
+      "problemMatcher": []
+    }
+  ]
+}

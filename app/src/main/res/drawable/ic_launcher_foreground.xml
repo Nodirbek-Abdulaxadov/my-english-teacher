@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A speech bubble with a sound wave inside: talking is what the app is for. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFF6E9"
+        android:pathData="M36,32h36a8,8 0 0 1 8,8v22a8,8 0 0 1 -8,8H52l-12,10v-10h-4a8,8 0 0 1 -8,-8V40a8,8 0 0 1 8,-8z" />
+    <path android:fillColor="#E8593A" android:pathData="M39,47a2.5,2.5 0 0 1 5,0v8a2.5,2.5 0 0 1 -5,0z" />
+    <path android:fillColor="#E8593A" android:pathData="M47,42a2.5,2.5 0 0 1 5,0v18a2.5,2.5 0 0 1 -5,0z" />
+    <path android:fillColor="#E8593A" android:pathData="M55,38.5a2.5,2.5 0 0 1 5,0v25a2.5,2.5 0 0 1 -5,0z" />
+    <path android:fillColor="#E8593A" android:pathData="M63,45a2.5,2.5 0 0 1 5,0v12a2.5,2.5 0 0 1 -5,0z" />
+</vector>
